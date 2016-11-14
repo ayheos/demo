@@ -1,4 +1,4 @@
-[回到顶部](#中文-README)
+[回到顶部](#中文README)
 
 # demo
 * aaa
@@ -117,5 +117,5 @@
 
 
 
-# 中文-README
+# 中文README
 * c
